@@ -1,0 +1,225 @@
+1. What do you understand by the terms- Microsoft Azure and Azure diagnostic?
+This is one of the most basic yet important Azure cloud interview questions. Microsoft Azure is a cloud computing interface that is implemented by Microsoft so as to get benefit from cloud computing.
+
+On the other hand, Azure diagnostics is an API based system that collects the data to diagnose the application which is constantly running. Moreover, it tunes with verbose monitoring by enabling the roles of cloud services.
+
+2. What do understand by cloud computing?
+This is another basic as well as the common question that finds its way in most of the Microsoft Azure interview questions. Cloud Computing is a high-level abstraction procedure that lays special emphasis on business logic. This service is delivered via the internet that helps you with the computing services without laying much importance on the infrastructural needs just like the electric supply.
+
+3. What is the scalability of cloud computing?
+If the above question appears as the Azure interview questions, then in such case the most appropriate answer would be scaling is one of the advantages that are of two types;
+
+Vertical scaling is the one where the configuration tends to increase the existing capacity of the machine. Just like you expand the size of the RAM from 4GB to 32GB.
+Horizontal Scaling is another aspect where the physical aspect is increased like putting multiple machines at work instead of replacing the existing machine.
+4. What are the advantages of cloud computing?
+Clou computing comes with several advantages. Some of the advantages are given below:
+
+Firstly, the versatility of the system can be altered if the business requires certain modifications.
+After that, they are highly available which increases its end users to get benefited by every inch.
+In addition, the system is capable of tolerating fault of a single part and overcomes it by remaining completely functional.
+Subsequently, the service allows you to pay only when the system is in use. 
+Lastly, the system has brought into light the payment for the operation rather than the investment in the machines.
+5. What is meant by PaaS, SaaS, and IaaS?
+These are certain basic terms that are commonly asked in an Azure interview:
+
+PaaS stands for Platform as a Service that allows you to get a platform to deliver without directly giving authorization to the OS software.
+SaaS stands for Software as a Service refers to the lacking of platform infrastructure software that can be used without direct purchase.
+IaaS stands for Infrastructure as a Service that enables you to get the hardware from the provider as the desired service which can be configured by the user.
+6. Discuss the different deployment models of the cloud?
+There are various deployment models for the cloud;
+
+Private Cloud Deployment Model– the one where you own the infrastructure and the cloud provider allows you to get the service exclusively.
+Public Cloud Deployment Model– the one where you get the multi-tenant infrastructure from the service provider exclusively.
+Hybrid Cloud Deployment Model– is basically a set up of intermixed public and private data. It generally includes the confidential data that will be served in-house and the public directed website is there to address the public.
+7. What are the main functions of Azure Cloud Services?
+Firstly, it is designed with a view to host the running application and simultaneously manage the background running application.
+Secondly, the application of web processing is called “web role” whereas the background processing is termed as the “worker role”.
+8. List out the purposes of the cloud configuration file.
+The main purpose of the cloud configuration file is as follows-
+
+Firstly, they hold the main copy of the certificates.
+Subsequently, they have the storage of user-defined settings.
+Further, there are a number of instances in any service project.
+9. Name the service used to manage the resources in Azure.
+The Azure resource manager is the infrastructure that is solely and completely involved in managing deploys or deleting all the resources.
+
+10. What do you mean by roles?
+This is another basic yet important question which should be answered in the following way:
+
+Roles in cloud management are generally servers that are connected to manage and balance the platform as a service machine, which further collaborates works to attain the goal.
+
+11. What are the different types of roles?
+There are basically three different types of roles;
+
+Web Role that is used to deploy the website by making use of language which is supported by the IIS platform customized to run the web application.
+VM Role is used to schedule the window services and tasks. It is performed by the user through the customization of the machine.
+Worker Role that is to execute the process that runs in the background by deploying the website.
+12. What do you mean by a domain?
+A domain is the interconnected and interlinked nodes that are often used as a measure by the organization. These relations are carried by only one point of the organization.
+
+13. Explain the fault domain.
+It refers to the logical working domain where the underlying hardware is sharing a common power source and switch network. In other words, when VMs are created the Azure distributes the VM across the fault domain that limits the potential impact of hardware failure, power interruption, or outages of the network.
+
+14. Discuss Update Domain.
+It refers to a logical group that undergoes maintenance by rebooting the system. It enables the user to run any one of the application while the Azure platform is undergoing maintenance. The updated domain does not work sequentially to the manual rebooting.
+
+15. Differentiate between verbose and minimal monitoring.
+Verbose monitoring collects metrics based on the performance that enables close analysis of data that fed during the processing of the application. On the other hand,  minimal monitoring is a default configuration that makes the use of the performance counters gathered from the operating system of the host. 
+
+16. What do you mean by a BLOB?
+BLOB refers to a Binary Large Object that is composed of any size and type of file. They are mainly of two types- the pages and the block blob.
+
+17. Explain block BLOB and page BLOB?
+Blob is a block that consists of a specific block ID. Each block in this block BLOB comprises 4MB and the maximum size of this BLOB it limited to 200 GB. On the other hand, Page blob contains pages in which the data range is determined by the offsets. The maximum limit of page BLOB is 1TB where a single page is of the size 1TB.
+
+18. State the difference between Windows Azure bus queues and Windows Azure queues?
+Windows Azure queues are held responsible to take care of the storage infrastructure of Windows Azure. On the contrary, bus queues are a broader aspect of the messaging infrastructure with publishing and subscribing to the integrating patterns of remote web service.
+
+19. What is meant by the dead letter queue?
+Messages are transferred to the dead letter queue in the following situation;
+
+Firstly, When the delivery count has exceeded a message that is in a queue.
+Secondly, when the expiry date of the message has crossed and the entire expired message is held in a queue.
+Thirdly, when there is an evaluation exception set by default and the subscription is enabled with a dead letter filter.
+20. Explain the Windows Azure platform?
+It is the collection of a PaaS developed by the Microsoft program. It is used to run a deployment vehicle and a runtime for the data center to host cloud computing. 
+
+21. How is the price of the Azure subscription placed?
+The prices vary depending on the product type. The various pricing models are;
+
+Firstly, the free model where customers can avail the system that is being exempted from the market fee.
+After that, the BYOL scheme where Azure is fetched with a fee that is not encircled around the limits of the market price.
+Subsequently, there exists a trial of the free software wherein, the client gets the full version with an advanced feature for a limited period of time. 
+22. What are virtual machine scale sets in Azure?
+Virtual machine scale sets refer to the Azure compute resources which are useful to deploy and manage a set of identical VMs. With all the VMs configured the same, scale sets mainly focus to support true autoscale, and no pre-provisioning of VMs is required.
+
+23. Define table storage?
+It refers to the interface that holds the capacity of storing bulk amounts of structured but non-relational data. 
+
+24. State the difference between repository and powerhouse server?
+Repository servers are the formations in respect of the integrity, consistency, and uniformity. On the other hand, powerhouse server monitors the integration of different aspects of the database repository.
+
+25. Describe enterprise warehousing?
+It refers to the phenomenon where the organization has access over data at a single point throughout the globe. The warehousing makes it possible for the server to link to a single point with the assistance of periodic handling.
+
+26. What do you understand by csrun?
+Csrun refers to a command-line tool that is generally useful for a packaged application to the Windows Azure compute emulator. It also manages the running service.
+
+27. List two blobs that are used in Microsoft Azure
+The two types of blobs offer in Azure are:
+
+Block Blob
+Page Blob
+28. What do you understand by the unconnected lookups?
+They are the input that is taken by the LKP operation. They are generally dynamic in nature as they only have a single output port. 
+
+29. What do you understand by the command task?
+The Command task refers to an operational window that sets off the flow of one or more command shells while the system is running.
+
+30. What are the PowerCenter commands that can be used in Informatica?
+Following two commands that can be used in Informatica-;
+
+Slashes (//)
+Dashes (–)
+31. Explain the difference between copy and shortcut?
+Copy refers to the process of transferring an object from one place to another and it takes double space. Moreover, there is no change that corresponds to the original object.
+
+On the contrary, the shortcut is a dynamic link of the object that saves the space reflecting changes in the original object.
+
+32. Are there any scale limitations for customers using managed disks?
+Yes, there is a limitation of managed disks. There is a limit of 2000 managed disks per subscription.
+
+33.  Is it possible to add an existing VM to an availability set?
+No. However, if you want to add, then you need to first create the VM within the set. Moreover, as of now, there is no way to add it.
+
+34. List the different database types in SQL Azure.
+There are two major types of database in SQL Azure;
+
+Web Edition – Firstly, this edition comes with a limit of 5GB SQL. The main advantage is that they are tolerant to a fault and highly available.
+Business-based Edition – Secondly, this edition supports 50GB of T-SQL that is tolerant to a fault, and highly available. 
+35. List out the reasons which makes Azure Resource Manager beneficial over the classic services?
+The benefits of the Azure Resource Manager are extremely beneficial. Not to mention, they have the power to overshadow the benefit of the classic services.
+
+First things first, the resources do not require management, deployment, or monitoring one at a time. Moreover, they are chain deployment activities that don’t need individual data handling.
+After that, data deployment takes place at a uniform rate. This enables the user to use a declarative template that indicates the deployment.
+Lastly, role-based control is present in the management platform that provides access to the resources that leads you to control.
+36. Enlist the monitoring features that are present in SharePoint 2010?
+The following features are present in Sharepoint 2010-
+
+Firstly, It collects the data on the event log, timer service, and performance counter.
+Secondly, they take part with data that is search usage.
+Thirdly, they provide matrices that are yielding a collection of sites.
+37. Name the class that can be used to retrieve data?
+The class that can be used to retrieve data is the SPSite Data Query. It holds the ability to query data that are present in more than one list all across the diverse web collections.
+
+38. Differentiate STS and SPS and state their respective features?
+SPS stands for SharePoint Portal Service. The SPS manages documents and has a search engine more efficient in penetrating the multiple sources of content.
+
+STS stands for SharePoint team management. They are beneficial and better for document management for a large organization and have a moderate search engine.
+
+39. Explain MOSS?
+MOSS also known as Microsoft Office SharePoint Server is a complete version of the portal platform that yields the user to manage, share and even create the document.
+
+40. State the difference between a library and a list?
+The library is an interface that provides one to manage and store a document that can be created using Excel, PowerPoint, or Word. 
+
+On the other hand, the list is the description of the item in a tabular form using columns and rows. Lists don’t hold the purpose to make a document but can attach documents.
+
+41. What do you mean by SAS?
+SAS stands for Statistical analytical System which is a software suite performing analysis of multiple variables. This particular software produces a smooth interface to offer graphical and clicks based solutions. 
+
+42. State some features of SAS?
+Some of the SAS features include;
+
+First things first, it provides the user access to manage the resources just like that of the DBMS.
+Secondly, it is leading with the leading analytical to carry out different business services and products.
+In addition, it allows easy visualization and interpretation with the use of graphs and its breaks the complex panels into simple plots.
+43. Describe the common architecture of SharePoint 2010?
+There are majorly three architectural design of the SharePoint 2010 which includes the following;
+
+Firstly, the enterprise farm which is not common because of its undivided dedication to the service and aids via automated management with the feasible isolation of data.
+Subsequently, there is a single farm in association with multiple services whose potential advantages are management via individual service application which enables with a more complex targeting of sites to a particular application of service.
+Lastly, the single farms are very common which involves single service, and at the same time easy to deploy. The application service is simple to allocate with fullest resource utilization and management.
+44. Describe log analytics?
+The operational management service of Log Analytics fulfills the entire requirement that runs the particular service. It generates a Power data source that allows the user to get the visuals of the raw data. Currently, it comes in three different tiers of prices that include free, premium and standard. 
+
+45. State the measures in case of service failure?
+Following steps needs attention after service failure:
+
+Firstly, make sure that the objects services have stopped running which will allow the object services to withstand the failure.
+After that, to complete the last lap of work pending you can allow the system object storage to remain functional by making the machine to again get back online. 
+Lastly, if you are incapable of replacing the drive then do remove the drive and let the system stay not mounted.
+46. Give an overview of API in Azure?
+API is basically a web service which also acts as an effective tool to analyze unstructured data like the extraction of the key phrase. The advantage of API in Azure is that it does not need any assistance with designing and training which implies that the data is in the hands of the user directly.
+
+ 47. Explain how a character analytics API functions?
+The working of the character analytics of API does not account for the characterization of words like good or bad. The natural language disrupts and uses the advanced feature.
+
+48. Differentiate between the PROC SUMMARY and PROC MEANS?
+PROC MEANS is a subgroup statist that is created in the persistence of the BY statement. The data here is sorted beforehand with the assistance of BY variables.
+
+PROC SUMMARY refers to the aid of statistics which provides all varieties of information running simultaneously and its production takes place simultaneously for every subgroup.
+
+49. What is Azure Search?
+Azure Search refers to the cloud search-as-a-service solution that delegates server and infrastructure management to Microsoft. It leaves you with a ready-to-use service that you can populate with your data and then use to add search to your web or mobile application. Moreover, it allows you to easily add a robust search experience to your applications. 
+
+50. If the client gets disconnected from the cache with the services state the probable cause?
+In such scenario, the causal factor falls into two major categories:
+
+The cause on the operator side;
+
+Firstly, there might be chances that there is a failure in the transfer of the standard cache from one node to the other.
+Secondly, deployment of the cache during processing and dispatching the services.
+Thirdly, there occurs a server update or an automated VM maintenance.
+The fault on the client side;
+
+The application on the client side got auto-scaling.
+The layer of the network on the client side altered.
+There was a transient error on the network node.
+The bound operation took more time.
+Expert’s Corner
+To conclude, Azure AZ-900 is a light exam that can help you pursue a career in one of Azure’s key roles, including developer, solution architect, administrator, etc. Therefore, if you want to start working with the Microsoft Azure platform, then this is a really good certification to get started with. The AZ-900 exam is the perfect way to prove your Azure and Cloud skills. Moreover, you can also put the AZ-900 badge on your resume to get recruiters’ attention, who are always looking for cloud certified professionals. 
+
+The topics that are covered in this Azure Interview Questions article are the most sought-after skill sets that recruiters look for in an Azure Professional. For a detailed study on Azure, you can also refer to our AZ-900 tutorial.
+
+We hope we have inspired you to take the plunge and try the Microsoft Azure AZ-900 exam. Did we meet the expectations? F
